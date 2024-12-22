@@ -1,0 +1,16 @@
+{  
+  "name": "gamesavingloader3",  
+  "version": "1.0.0",  
+  "scripts": {  
+    "build": "webpack",  
+    "test": "jest"  
+  },  
+  "devDependencies": {  
+    "babel-loader": "^8.2.5",  
+    "webpack": "^5.97.1",  
+    "webpack-cli": "^4.10.0",  
+    "jest": "^27.0.6",  
+    "babel-jest": "^27.0.6",  
+    "@babel/preset-env": "^7.15.0"  
+  }  
+}
